@@ -260,7 +260,7 @@ Want your own domain? (e.g., `yourname.com`)
 
 </div>
 
-> *Note: Add actual screenshots to a `screenshots/` folder in your repository*
+
 
 ---
 
@@ -317,12 +317,8 @@ This project is **MIT** licensed. See the [LICENSE](LICENSE) file for details.
 
 <div align="center">
 
-### Let's Connect! 🤝
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-kappa-tawny-13.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImrulMir15)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 
 **Project Link:** [https://github.com/ImrulMir15/New-folder](https://github.com/ImrulMir15/New-folder)
 
