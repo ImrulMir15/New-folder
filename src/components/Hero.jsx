@@ -1,4 +1,4 @@
-import profileImg from '../assets/imrul.jpeg'; // Add your image file
+import profileImg from '../assets/imrul.jpeg';
 
 export default function Hero() {
   return (

@@ -1,9 +1,6 @@
 import { useState } from 'react';
 
 export default function Contact() {
-    // NOTE: Replace this with your actual Formspree ID
-    // To get one, go to https://formspree.io/, create a form, and paste the ID here.
-    // Example: "https://formspree.io/f/xyzaabbcc"
     const FORMSPREE_ENDPOINT = "https://formspree.io/f/mykkelqp";
 
     const [status, setStatus] = useState("");
