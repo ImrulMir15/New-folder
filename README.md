@@ -79,8 +79,8 @@ This is my personal portfolio website built with **React** and **Vite**, designe
 
 ### Technologies Used:
 
-- **Frontend Framework:** React 18
-- **Build Tool:** Vite 4
+- **Frontend Framework:** React 19.2
+- **Build Tool:** Vite 7.2
 - **Styling:** CSS3 with modern features
 - **Form Integration:** Formspree
 - **Deployment:** Vercel
