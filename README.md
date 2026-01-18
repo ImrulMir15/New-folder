@@ -34,7 +34,6 @@
 - [Project Structure](#project-structure)
 - [Contact Form Setup](#contact-form-setup)
 - [Deployment](#deployment)
-- [Screenshots](#screenshots)
 - [Contact](#contact)
 - [License](#license)
 
